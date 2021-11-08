@@ -1,0 +1,13 @@
+.nav{
+    background-color: black;
+    color: white;
+}
+
+.links{
+    align-items: right;
+    justify-content: right;
+}
+
+.btn-space {
+    margin-right: 5px;
+}
